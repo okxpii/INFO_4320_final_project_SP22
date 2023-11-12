@@ -1,1 +1,1 @@
-This is for my final project for INFO 4320, Rapid Prototyping, where we created a NFC scanner jukebox.
+This is for my final project for INFO 4320, Rapid Prototyping, where we created a NFC scanner jukebox. I was responsible for both design docs, all the design prototyping, and contributed to the Arduino code as well.
